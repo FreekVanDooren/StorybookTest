@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "storybook.test.js",
+  "sourceRoot": "",
+  "sources": [
+    "storybook.test.tsx"
+  ],
+  "names": [],
+  "mappings": ";;;AAAA,yFAAyD;AAEzD,0BAAc,CAAC,EAAE,CAAC,CAAC"
+}

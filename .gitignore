@@ -1,0 +1,15 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+ios/build/**/*
+android/.gradle/**/*
+android/app/build/**/*
+android/.idea/caches/**/*
+usage.statistics.xml
+tasks.xml
+workspace.xml
+*.log
